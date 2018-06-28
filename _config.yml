@@ -77,7 +77,7 @@ theme: clean-blog
 
 theme_config:
   menu_title: Home
-  index_cover: /blog/images/20150523_132024.jpg
+  index_cover: blog/images/20150523_132024.jpg
 
   # Header
   menu:
