@@ -91,7 +91,11 @@ theme_config:
       icon: twitter
   comments:
     disqus_shortname: blog-89ppofkt5c
+
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+google_analytics: UA-12327713-23
