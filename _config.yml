@@ -91,7 +91,7 @@ theme_config:
       icon: twitter
   comments:
     disqus_shortname: blog-89ppofkt5c
-    google_analytics: UA-12327713-23
+  google_analytics: UA-12327713-23
 
 
 # Deployment
