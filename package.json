@@ -6,7 +6,7 @@
     "version": "3.7.1"
   },
   "scripts": {
-    "deploy": "hexo clean && hexo generate && gh-pages -d public/"
+    "deploy": "hexo clean && hexo generate && gh-pages -d public/ && git push"
   },
   "dependencies": {
     "hexo": "^3.2.0",
