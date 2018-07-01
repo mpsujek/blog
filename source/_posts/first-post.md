@@ -1,5 +1,6 @@
 ---
 title: Pierwszy wpis. - Trochę o początkach
+date: 2018/06/28
 ---
 Nigdy nie pisałem bloga, nie wiem od czego zacząć. Jestem Mateusz. Piszę ten wpis z plaży na Hawajach właśnie skończyłem pracę jest 17:01. Zaraz idę popływać a później na jakiś obiad. STOP… Taka wizualizacja. Teraz tak na serio. Jest 23:00. Godzinę temu położyłem wreszcie córkę spać, poszedłem zrobić zakupy, posprzątałem mieszkanie z zabawek i wreszcie usiadłem. Ciekawe jest dla mnie że dopiero teraz po pół roku pracy jako junior front-end developer dostrzegam jak bardzo cieszę się że pracuję już na tym stanowisku.
 
